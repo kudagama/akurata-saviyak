@@ -1083,7 +1083,7 @@ export default function App() {
                   </p>
                   <div className="flex items-center gap-2 mb-3">
                     <Phone className="w-4 h-4 text-yellow-700" />
-                    <span className="font-semibold text-yellow-900">077 608 8374</span>
+                    <span className="font-semibold text-yellow-900">076 608 8374</span>
                   </div>
                   <button
                     type="button"
